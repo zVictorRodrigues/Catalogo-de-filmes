@@ -1,1 +1,1 @@
-Projeto de faculdade de um site para pesquisar filmes e assistir filmes.
+Projeto de faculdade de um site java-web para pesquisar  e assistir filmes.
